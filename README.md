@@ -1,4 +1,4 @@
-[![Main Kittygram workflow]https://github.com/GagarinRu/kittygram_final/actions/workflows/main.yml/badge.svg]
+[![Main Kittygram workflow](https://github.com/GagarinRu/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/GagarinRu/kittygram_final/actions/workflows/main.yml/)
 #  Проект Kittygram
 
 ## Описание

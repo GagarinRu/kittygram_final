@@ -1,4 +1,4 @@
-https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
+[![Main Kittygram workflow]https://github.com/GagarinRu/kittygram_final/actions/workflows/main.yml/badge.svg]
 #  Проект Kittygram
 
 ## Описание

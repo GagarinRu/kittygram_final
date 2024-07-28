@@ -12,7 +12,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'default')
 
 DEBUG = os.getenv('DEBUG','False')
 
-ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS','default').split()
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS','default').split( )
 
 INSTALLED_APPS = [
     'django.contrib.admin',
